@@ -2,4 +2,4 @@
 
 ### This is a project in the making
 
-<img src='C:\Users\CALVIN\Desktop\Data-Analytics\branching.additional_binning.png'></img>
+<img src='additional_binning.png'></img>
