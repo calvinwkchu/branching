@@ -1,4 +1,3 @@
 # branching
 
-### This is a project by Calvin
-
+### This is a project
